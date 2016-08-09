@@ -1,0 +1,7 @@
+.DS_STORE
+*.log
+旧文件
+node_modules
+
+dist
+coverage
